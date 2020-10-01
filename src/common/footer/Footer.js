@@ -12,4 +12,4 @@ const Footer = () => {
 // Footer.propTypes = {
 //   props: PropTypes.string.isRequired,
 // };
-export default Footer
+export default Footer;
